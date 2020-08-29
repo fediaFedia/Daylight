@@ -15,6 +15,10 @@ If you already use Rainmeter, now there's no point in using any additional 3rd p
 
 ![Settings](/images/settings.png)
 
+# Feedback
+Tweet me at @fediaFedia or shoot me an email if you can figure out what it is!
+You're also welcome to leave a comment on my [DeviantArt page](https://www.deviantart.com/fediafedia/art/Daylight-for-Rainmeter-Standalone-Omnimo-BigSur-847968947)
+
 # Using it in your skins
 
 Feel free to use this tool as both standalone, or integrate it into your skins.
@@ -41,4 +45,5 @@ LUA program by Elias Karakoulakis, Jarmo Lammi, thanks to Xyrfo, Niivu and Lex.
 
 ## Wait a minute Jack, but other apps can apply several images throughout the day.
 
-Great, too bad there's like 3 good "dynamic" wallpapers that contain a variation for every hour. Until then I feel like the use cases are sorta limited. Still, it's possible this project will also support that later.
+![Dynamic](/images/dyn.jpg)
+Great, too bad there's like 3 good "dynamic" wallpapers that contain a variation for every hour. Until there's a lot more, I feel like the use cases are sorta limited. Still, it's possible this project will also support that later.
