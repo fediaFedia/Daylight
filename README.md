@@ -5,6 +5,8 @@ Changing your Skins to Dark (or Light) Mode, along with the wallpaper, system th
 
 If you already use Rainmeter, now there's no point in using any additional 3rd party apps to change your wallpaper, system theme, dock theme etc. With Daylight you can set all your stuff to change depending on sunrise / sunset, or just simply when you feel like it!
 
+![Daylight Logo](/images/daylight.gif)
+
 Here are some of the options available:
 
 ![Settings](/images/settings.png)
