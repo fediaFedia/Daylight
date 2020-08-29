@@ -4,6 +4,9 @@ Changing your Skins to Dark (or Light) Mode, along with the wallpaper, system th
 ![Daylight Logo](/images/daylight.png)
 
 Make your computer's style more responsive to [Daytime and Nighttime](https://www.youtube.com/watch?v=Ln2Xq8fCNI8) cycles (science approves!)
+
+### Impress your friends and your mom with how your computer automatically switches to a dark theme! (Something macOS had for a while now :/)
+
 If you already use Rainmeter, now there's no point in using any additional 3rd party apps to change your wallpaper, system theme, dock theme etc. With Daylight you can set all your stuff to change depending on sunrise / sunset, or just simply when you feel like it!
 
 ![Daylight Logo](/images/daylight.gif)
@@ -11,6 +14,8 @@ If you already use Rainmeter, now there's no point in using any additional 3rd p
 ## Here are some of the options available:
 
 ![Settings](/images/settings.png)
+
+# Using it in your skins
 
 Feel free to use this tool as both standalone, or integrate it into your skins.
 Only thing you need to worry about is getting the user to enter their coordinates (Latitude / Longitude) into the settings, the rest is easy!
@@ -22,5 +27,18 @@ You can change your Rainmeter skins to look at that variable and switch their de
 
 `@include=#@#\Global.inc`
 
-
 LUA program by Elias Karakoulakis, Jarmo Lammi, thanks to Xyrfo, Niivu and Lex.
+
+## Why it's cooler than WinDynamicDesktopand other apps
+
+1. One less app to run for the same result!
+2. Not only can it change your wallpaper, it can also change your System Theme, Rainmeter skin style, Dock theme, etc.. 
+3. You can extend its functionality and program additional features (very easy!)
+4. Don't need .NET Framework!
+5. Trigger dark mode whenever you feel like it!
+6. ???
+7. Profit!
+
+## Wait a minute Jack, but other apps can apply several images throughout the day.
+
+Great, too bad there's like 3 good "dynamic" wallpapers that contain a variation for every hour. Until then I feel like the use cases are sorta limited. Still, it's possible this project will also support that later.
