@@ -46,5 +46,5 @@ LUA program by Elias Karakoulakis, Jarmo Lammi, thanks to Xyrfo, Niivu and Lex.
 
 ## Wait a minute Jack, but other apps can apply several images throughout the day.
 
-![Dynamic](/images/dyn.jpg)
+![Dynamic](/images/dyna.jpg)
 Great, too bad there's like 3 good "dynamic" wallpapers that contain a variation for every hour. Until there's a lot more, I feel like the use cases are sorta limited. Still, it's possible this project will also support that later.
