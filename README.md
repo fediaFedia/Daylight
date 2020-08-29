@@ -1,5 +1,6 @@
 # Daylight for Rainmeter
-Changing your Skins to Dark (or Light) Mode, along with the wallpaper, system theme and dock
+#### Changing your Skins to Dark (or Light) Mode, along with the wallpaper, system theme and dock
+For Windows 10, 8, 7 and so on...
 
 ![Daylight Logo](/images/daylight.png)
 
